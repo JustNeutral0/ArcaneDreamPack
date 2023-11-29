@@ -2772,13 +2772,8 @@ hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
 metafile = true
 
 [[files]]
-file = "mods/butchers-delight-foods.pw.toml"
-hash = "db77b3fde512e69e3600848594215ffa89e055057f340de78eef7d3944332caf"
-metafile = true
-
-[[files]]
 file = "mods/butchers-delight.pw.toml"
-hash = "c5f35e07ffba4aed14953054eee4d3326d0bff694be82fcfc0f55ad778d3927e"
+hash = "4ed30939d9e1d026e1ec4004d8a044a5e5a2c06b8ed8879c1abac756d65f4489"
 metafile = true
 
 [[files]]
