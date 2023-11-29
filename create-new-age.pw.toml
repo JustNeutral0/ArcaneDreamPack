@@ -1,0 +1,13 @@
+name = "Create: New Age"
+filename = "create-new-age-forge-1.19.2-1.1.pre5.hf1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b98eb17631174f265c791f255fa9d95d7d0784d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4881862
+project-id = 905861

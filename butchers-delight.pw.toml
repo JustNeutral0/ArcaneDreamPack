@@ -1,0 +1,13 @@
+name = "Butcher's Delight"
+filename = "Butchersdelight beta 1.19.2 2.0.8f.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ab5f00ee9c756733ca05d7ca8eb758bf2a96669"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4813783
+project-id = 551909

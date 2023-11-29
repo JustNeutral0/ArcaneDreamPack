@@ -1,0 +1,13 @@
+name = "Create + Biomes O' Plenty Rose Quartz Compatability"
+filename = "Create+BOP Rose Quartz.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2abdbfe099e78721565e18798cb9dc8135d647ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4884975
+project-id = 940637
