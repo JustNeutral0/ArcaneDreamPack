@@ -3,11 +3,11 @@ filename = "Butchersdelight beta 1.19.2 2.0.8f.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/B0xSlae0/versions/C3TddUjN/Butchersdelight%20beta%201.19.2%202.0.8f.jar"
 hash-format = "sha1"
 hash = "6ab5f00ee9c756733ca05d7ca8eb758bf2a96669"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4813783
-project-id = 551909
+[update.modrinth]
+mod-id = "B0xSlae0"
+version = "C3TddUjN"
