@@ -1,0 +1,13 @@
+name = "arcane dreamers"
+author = "JustNeutral"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4c4cca1aee6e557040aa91a7109a14efc4c5ba0a427b971d03e1157bf11d7cfb"
+
+[versions]
+forge = "43.3.5"
+minecraft = "1.19.2"
