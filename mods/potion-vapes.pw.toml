@@ -1,0 +1,13 @@
+name = "Potion Vapes"
+filename = "potionvapes-1.0.3-1.19.2-FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e826a56a1ddee703243ffe3c8c3a26417e00e48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4906741
+project-id = 923513

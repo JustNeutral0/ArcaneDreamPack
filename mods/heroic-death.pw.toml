@@ -1,0 +1,13 @@
+name = "Heroic Death"
+filename = "heroicdeath-1.19.2-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4e03a42071f48e511b3aa7bfa062838cb624a08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4451463
+project-id = 403054

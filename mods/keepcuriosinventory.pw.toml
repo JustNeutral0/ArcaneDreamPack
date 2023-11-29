@@ -1,0 +1,13 @@
+name = "KeepCuriosInventory"
+filename = "keepcuriosinventory-1.19.2-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d62123a4991db7c41e6f8e36fb6b227c799be4ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4723907
+project-id = 880582

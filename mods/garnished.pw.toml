@@ -1,0 +1,13 @@
+name = "Create: Garnished"
+filename = "garnished-1.2-hotfix-1+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "778e9a9f32957edd5a8f4c890aa3afd53f4fa6e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4830481
+project-id = 923277

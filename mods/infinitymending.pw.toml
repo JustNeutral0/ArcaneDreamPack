@@ -1,0 +1,13 @@
+name = "Infinity Mending"
+filename = "InfinityMending-1.19-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28c8d3155af94887072c9e6b794d231e0cbc19a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3924194
+project-id = 399752

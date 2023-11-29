@@ -1,0 +1,13 @@
+name = "Ars Nouveau - Extended Glyphs"
+filename = "ars_extended_glyphs-1.19.2-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06540e136ab0ce38e29545b806a42e121b3626a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4886039
+project-id = 936742

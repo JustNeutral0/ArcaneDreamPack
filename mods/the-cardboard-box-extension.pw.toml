@@ -1,0 +1,13 @@
+name = "The Cardboard Box Extension"
+filename = "TheCardboardBoxMod-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdcce486e0edd1989e0f3d4f90f4561ec5425f32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4297856
+project-id = 784789
